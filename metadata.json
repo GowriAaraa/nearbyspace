@@ -1,0 +1,7 @@
+{
+  "name": "NearbySpace",
+  "description": "A premium PAN India co-working space rental marketplace connecting owners and workspace seekers with Apple-inspired design and advanced SEO.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
